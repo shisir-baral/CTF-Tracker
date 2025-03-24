@@ -29,7 +29,7 @@ No external libraries are required beyond the Python standard library.
 
 2. **Directory Structure**:
    Ensure your project directory looks like this:
-
+```
    CTF_Contribution_Tracker/
    ├── main.py
    ├── Utils/
@@ -37,7 +37,7 @@ No external libraries are required beyond the Python standard library.
    │   └── gui_utils.py
    ├── logs/           (created automatically on first run)
    └── database/       (created automatically on first run)
-
+```
 
 3. **Run the Application**:
 - Navigate to the project directory in your terminal.
